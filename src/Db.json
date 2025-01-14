@@ -1,0 +1,126 @@
+{
+    "recipes":[
+        {
+          "title": "Lemon Rosemary Chicken Soup",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Lemon-Rosemary-Chicken-Soup.jpg",
+          "reviews": 8,
+          "rating": 4.9
+        },
+        {
+          "title": "Brussels Sprouts with Gochujang Butter",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Brussels-Sprouts-with-Gochujang-Butter.jpg",
+          "reviews": 7,
+          "rating": 4.9
+        },
+        {
+          "title": "Incredible Arancini",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Arancini-800x800.jpg",
+          "reviews": 12,
+          "rating": 4.8
+        },
+        {
+          "title": "Bang Bang Salmon with Avocado Cucumber Salsa",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Bang-Bang-Salmon-with-Rice-and-Cucumber-800x800.jpg",
+          "reviews": 13,
+          "rating": 4.9
+        },
+        {
+          "title":"Scallion Pan cake with Eggs",
+          "image":"https://pinchofyum.com/wp-content/uploads/Scallion-Pancake-with-Eggs-800x800.jpg",
+          "reviews":6,
+          "rating":3.8
+        },
+        {
+          "title":"Garlic & Black Pepper Beef Skewers",
+          "image":"https://pinchofyum.com/wp-content/uploads/Black-Pepper-Beef-800x800.jpg",
+          "reviews":6,
+          "rating":3.8
+        },
+        {
+          "title":"Upma",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2024/07/upma.jpg",
+          "reviews":6,
+          "rating":3.8
+        },
+        {
+          "title":"Butter Chicken",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2023/05/butter-chicken-murgh-makhani-1024x1536.jpg",
+          "reviews":6,
+          "rating":3.8
+        },
+        {
+          "title":"Chocolate ice cream",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/07/chocolate-ice-cream.jpg",
+          "reviews":19,
+          "rating":4.8
+        },{
+          "title":"Veg Fried Rice",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/01/fried-rice.jpg",
+          "reviews":96,
+          "rating":4.1
+        },
+        {
+          "title":"Stawberry Milk Shake",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/strawberry-milkshake.jpg",
+          "reviews":76,
+          "rating":4.8
+        },
+        {
+          "title":"Chicken Biryani",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/chicken-biryani.jpg",
+          "reviews":46,
+          "rating":4.8
+        },
+        {
+          "title":"Watermelon Juice",
+          "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/watermelon-juice.jpg",
+          "reviews":36,
+          "rating":4.7
+        }
+      ],
+
+      "HomeRecipes": [
+        {
+          "title": "Salads",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Squash-Salad-3-420x600.jpg",
+          "link": "/recipes/salads"
+        },
+        {
+          "title": "Casseroles",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Sweet-Potato-Casserole-Recipe-420x600.jpg",
+          "link": "/recipes/casseroles"
+        },
+        {
+          "title": "Soups",
+          "image":
+            "https://pinchofyum.com/wp-content/uploads/Broccoli-Cheese-Soup-2-640x640.jpg",
+          "link": "/recipes/soups"
+        },
+        {
+          "title":"Quick Recipes",
+          "image":"https://pinchofyum.com/wp-content/uploads/Stephs-Chickpea-Curry-Square-768x768.png",
+          "link":"/recipes/quickrecipes"
+        }
+      ],
+
+    "quickRecipeVideos":[
+        {
+          "title": "UppuMavu",
+          "videoLink": "https://www.youtube.com/embed/7QKOPdBg5co?si=uVs1kA9H1q0BdiN8"
+        },
+        {
+          "title": "Cheesy Egg Roll",
+          "videoLink": "https://www.youtube.com/embed/TvZMCQbd7IM?si=2RE6QV0ZfDnLf-Gu"
+        },
+        {
+          "title": "Alfredo Pasta",
+          "videoLink": "https://www.youtube.com/embed/ROTMHSI2LJU?si=8wnlNDg_ohA33Bb"
+        }
+      ]
+}
